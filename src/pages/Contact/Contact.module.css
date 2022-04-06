@@ -1,0 +1,15 @@
+
+.contactContainer {
+    display: grid;
+    gap: 2rem;
+}
+
+.contactInfo p {
+    margin-top: 1rem;
+}
+
+@media screen and (min-width: 992px) {
+    .contactContainer {
+        grid-template-columns: 1fr 450px;
+    }
+}
