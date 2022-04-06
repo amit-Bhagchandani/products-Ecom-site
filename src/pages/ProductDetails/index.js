@@ -26,7 +26,7 @@ const ProductDetails = () => {
        <>
         <div className= {styles.productContainer}>
           <section className={styles.productHero}>
-            <img src= {selected_item.image.substring(1)} className= {`img ${styles.productHeroImg}`} />
+            <img src= {selected_item.image} className= {`img ${styles.productHeroImg}`} />
             <article>
               <div className={styles.productInfoRow}>
                 <h5>Title:</h5>
