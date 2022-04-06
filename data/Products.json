@@ -1,0 +1,45 @@
+{
+   "products": [ {
+        "id": 0,
+        "title": "TL Compute 400",
+        "price": 300,
+        "description": "A graphics card is an expansion card which generates a feed of output images to a display device. Frequently, these are advertised as discrete or dedicated graphics cards, emphasizing the distinction between these and integrated graphics.",
+        "image": "./images/Products/g1.jpeg"
+    },
+    {
+        "id": 1,
+        "title": "TL Compute 500",
+        "price": 450,
+        "description": "A graphics card is an expansion card which generates a feed of output images to a display device. Frequently, these are advertised as discrete or dedicated graphics cards, emphasizing the distinction between these and integrated graphics.",
+        "image": "./images/Products/g2.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "TL Compute 600",
+        "price": 600,
+        "description": "32 Panel, Moulded bounce and speed depends on Ball Pressure Suitable for: ground with natural grass , Sand & Indoor Designed for Hobby playing, Recommended for Under 12 yrs age group",
+        "image": "./images/Products/g3.jpeg"
+    },
+    {
+        "id": 3,
+        "title": "TL Compute Max",
+        "price": 800,
+        "description": "A graphics card is an expansion card which generates a feed of output images to a display device. Frequently, these are advertised as discrete or dedicated graphics cards, emphasizing the distinction between these and integrated graphics.",
+        "image": "./images/Products/g7.jpeg"
+    },
+    {
+        "id": 4,
+        "title": "E-unit-90",
+        "price": 500,
+        "description": "A graphics card is an expansion card which generates a feed of output images to a display device. Frequently, these are advertised as discrete or dedicated graphics cards, emphasizing the distinction between these and integrated graphics.",
+        "image": "./images/Products/g5.jpeg"
+    },
+    {
+        "id": 5,
+        "title": "E-unit-120",
+        "price": 700,
+        "description": "A graphics card is an expansion card which generates a feed of output images to a display device. Frequently, these are advertised as discrete or dedicated graphics cards, emphasizing the distinction between these and integrated graphics.",
+        "image": "./images/Products/g6.jpeg"
+    }
+    ]
+}
