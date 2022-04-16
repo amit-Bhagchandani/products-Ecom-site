@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# products-Ecom-site
+A multi page products (Graphic cards) e-commerce website.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
+  1. Users can view product details page.
+  2. Users can add product to the cart.
+  3. Users can adjust product quantity in the cart.
+
+## Technoligies used
+ReactJS, javascript, HTML, CSS, Redux (Redux toolkit) for state management, react-icons, Github pages for deployment.
+
+## Live demo
+[amit-bhagchandani.github.io/products-Ecom-site](https://amit-bhagchandani.github.io/products-Ecom-site/)
 
 ## Available Scripts
 
@@ -11,8 +21,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page will reload when you make changes.
 
 ### `npm test`
 
