@@ -6,7 +6,7 @@ A multi page products (Graphic cards) e-commerce website.
   2. Users can add product to the cart.
   3. Users can adjust product quantity in the cart.
 
-## Technoligies used
+## Technologies used
 ReactJS, javascript, HTML, CSS, Redux (Redux toolkit) for state management, react-icons, Github pages for deployment.
 
 ## Live demo
